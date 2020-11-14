@@ -44,7 +44,7 @@ public class Login extends javax.swing.JFrame {
 
         jLabel1.setText("LOGIN");
 
-        jLabel2.setText("Username");
+        jLabel2.setText("Username TOMMy");
 
         txtuser.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
